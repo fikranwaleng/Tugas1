@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FastBloods</string>
+    <string name="email">Email...</string>
+    <string name="kata_sandi">Kata Sandi...</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="nama_pengguna">Nama Pengguna...</string>
+    <string name="no_telepon">No Telepon...</string>
+    <string name="konfirmasi_kata_sandi">Konfirmasi Kata Sandi...</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="account">Account</string>
+    <string name="data">
+        Aplikasi ini adalah aplikasi yang menyediakan informasi darah dan informasi tempat dan jadwal untuk donor darah. Fitur utama dari aplikasi ini adalah fitur kampanye yang mana fitur kampanye ini digunakan ketika ada user yang membutuhkan darah dalam keadaan darurat. Jadi ketika user melakukan kampanye membutuhkan darah, maka disetiap akun user pendonor darah aktif masuk notifikasi darurat yang informasinya Jumlah kantong darah yang dibutuhkan, Alamat RS yang membutuhkan darah dan nomor hp yang bisa dihubungi beserta lokasi dan jalur tercepat. Notifkasi tersebut akan selalu masuk selama user pendonor darah aktif tidak menekan Bantu atau Tolak pada notifikasi tersebut
+    </string>
+    <string name="home">Home</string>
+    <string name="nama_irmalia">Nama : Irmalia</string>
+    <string name="stambuk_f_551_17_036">Stambuk : F 551 17 036</string>
+    <string name="nama_fikran">Nama : Fikran</string>
+    <string name="stambuk_f_551_17_002">Stambuk : F 551 17 002</string>
+    <string name="nama_hikmawati">Nama : Hikmawati</string>
+    <string name="stambuk_f_551_17_003">Stambuk : F 551 17 003</string>
+    <string name="nama_ni_matul_hasanah">Nama : Ni\'matul Hasanah</string>
+    <string name="stambuk_f_551_17_005">Stambuk : F 551 17 005</string>
+    <string name="nama_megawati_m">Nama : Megawati M.</string>
+    <string name="stambuk_f_551_17_030">Stambuk : F 551 17 030</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="deskripsi_gambar">Deskripsi Gambar...</string>
+    <string name="cari">CARI</string>
+    <string name="tambah">Tambah</string>
+    <string name="gallery">Gallery</string>
+    <string name="fikran">Fikran</string>
+    <string name="_21_tahun">21 Tahun</string>
+    <string name="item_1">
+        Di butuhkan darah sekitar 10 kantong golongan Darah O untuk pasien di rumah sakit Anutapura Palu, Ruang Mawar 4. Silahkan datang kerumah sakit ini atau Lokasi nya bisa di cek
+    </string>
+    <string name="irmalia">Irmalia</string>
+    <string name="_20_tahun">20 Tahun</string>
+    <string name="hikmawati">Hikmawati</string>
+    <string name="megawati">Megawati</string>
+    <string name="_19_tahun">19 Tahun</string>
+    <string name="ni_matul_hasanah">Ni\'matul Hasanah</string>
+    <string name="palang_merah_tondo">Palang Merah Tondo</string>
+    <string name="jalan_untad_1">Jalan Untad 1</string>
+    <string name="penyedia_layanan_darah">Penyedia Layanan Darah</string>
+    <string name="informasi_akan_diakdakan_pendonoran_darah_di_kampus_untad_tanggal_19_mei_2020_jam_09_00">Informasi akan diakdakan pendonoran darah di kampus Untad Tanggal 19 Mei 2020 jam 09.00</string>
+
+
+</resources>
